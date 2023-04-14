@@ -31,7 +31,6 @@ delet.addEventListener("click", () => {
   }else{
     screen.textContent = screen.textContent.slice(0,-1);
   }
-  alert("hello world!");
 });
 nom.addEventListener("click",() => {
   window.open("https://github.com/Younes-khadraoui");
