@@ -35,3 +35,4 @@ delet.addEventListener("click", () => {
 nom.addEventListener("click",() => {
   window.open("https://github.com/Younes-khadraoui");
 });
+
